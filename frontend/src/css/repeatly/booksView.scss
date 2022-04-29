@@ -1,0 +1,17 @@
+.bgcarousel {
+  background-color: #ffff;
+  border-top: 4px solid #262626;
+  border-bottom: 4px solid #262626;
+}
+
+.carousel {
+  max-width: 1300px;
+  &__title {
+    font-size: 30px;
+    padding:20px 0;
+  }
+}
+
+.react-multi-carousel-list {
+    padding: 5px 0;
+}

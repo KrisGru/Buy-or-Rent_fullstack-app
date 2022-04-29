@@ -1,0 +1,2135 @@
+
+{
+  "recommended": [
+    {
+      "kind": "books#volume",
+      "id": "gjZ1zgEACAAJ",
+      "etag": "7dJcdOBGCJo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gjZ1zgEACAAJ",
+      "volumeInfo": {
+        "title": "Lucyfer",
+        "authors": [
+          "Neil Gaiman",
+          "Sam Kieth",
+          "Mike Dringenberg"
+        ],
+        "publishedDate": "2021",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8328160188"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788328160187"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=gjZ1zgEACAAJ&dq=intitle:lucyfer&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=gjZ1zgEACAAJ&dq=intitle:lucyfer&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lucyfer.html?hl=&id=gjZ1zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gjZ1zgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YV_mDwAAQBAJ",
+      "etag": "XXPFv/PqeA8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YV_mDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Lucyfer i anioł - Ponadczasowe historie miłosne Barbary Cartland",
+        "authors": [
+          "Barbara Cartland"
+        ],
+        "publisher": "Lindhardt og Ringhof",
+        "publishedDate": "2020-06-10",
+        "description": "Anita jest jedną z trzech sióstr, która pewnego ranka, bujając w obłokach, na swojej drodze napotyka najprawdziwszego Lucyfera. Zaskakuje ją i intryguje jednocześnie. Siostry prowadzą spokojne życie, aż do momentu, gdy ich ojciec ginie w wypadku konnym, a matka na skutek silnego stresu poważnie podupada na zdrowiu. Na szczęście dzięki pomocy pewnej zaprzyjaźnionej z rodziną arystokratki udaje się zabrać ją na leczenie. Dziewczęta pozostają same, a najstarsza z sióstr, która od dłuższego już czasu pełni funkcje głowy rodziny, obmyśla plan, jak zabezpieczyć każdą z sióstr poprzez wychowanie u zamożnych krewnych i przedostanie się do wyższych sfer, które zapewnią im dobrobyt. Anita jako jedyna nie ma wyjechać do kogo do Londynu, a zostaje jej oddanie się pod opiekę starej ciotki w zacisznej miejscowości. Tam spotka też swojego Lucyfera po raz kolejny. Pozna nowe towarzyszki dnia codziennego. Niektóre z nich będą potrzebować jej pomocy, zaś Lucyfer okaże się synem księżnej Ollerton, która bardzo pragnie jego ożenku. Jak dalej potoczą się losy sióstr? Czy książę Ollerton okaże się prawdziwym Lucyferem? Czy skusi anielską Anitę? Mary Barbara Hamilton Cartland (1901-2000) pseud. Barbara Cartland, brytyjska powieściopisarka, znana z pisania licznych romansów i powieści miłosnych. Napisała 723 książki w tym 5 biografii. Była jedyną córką brytyjskiego oficera, majora Bertrama Cartlanda, który zginął podczas I wojny światowej. Ukończyła college dla dziewcząt w Malvern, po którym rozpoczęła pracę reporterki zajmującej się sprawami społecznymi i pisarki powieści miłosnych. Z początku prowadziła kolumnę plotek w Daily Express. W roku 1923 opublikowała pierwszą powieść Jigsaw, która stała się bestsellerem. W jej powieściach ukształtował się specyficzny styl, konstrukcja akcji, osadzenie w realiach historycznych. Mimo schematycznej akcji, jej późniejsze powieści cieszyły się powodzeniem. W roku 1983 jej nazwisko umieszczono w księdze Guinnessa. W połowie lat 90 sprzedała swą miliardową książkę. Zgodnie ze wspomnieniem pośmiertnym opublikowanym w The Daily Telegraph Cartland zerwała swe pierwsze zaręczyny po poznaniu szczegółów stosunku płciowego i doznała szoku. Ostatecznie wyszła za mąż w roku 1932 za oficera Alexandra George'a McCorquodale'a. Jej córka, Raine Spencer, była w późniejszym czasie macochą księżnej Diany. Po rozwodzie w r. 1936 wyszła za Hugh McCorquodale, z którym miała dwóch synów.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788711771259"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8711771259"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YV_mDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YV_mDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=YV_mDwAAQBAJ&printsec=frontcover&dq=intitle:lucyfer&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YV_mDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YV_mDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 10.35,
+          "currencyCode": "PLN"
+        },
+        "retailPrice": {
+          "amount": 8.59,
+          "currencyCode": "PLN"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=YV_mDwAAQBAJ&rdid=book-YV_mDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 10350000,
+              "currencyCode": "PLN"
+            },
+            "retailPrice": {
+              "amountInMicros": 8590000,
+              "currencyCode": "PLN"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pl/books/download/Lucyfer_i_anio%C5%82_Ponadczasowe_historie_m-sample-epub.acsm?id=YV_mDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YV_mDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Czy książę Ollerton okaże się prawdziwym Lucyferem? Czy skusi anielską Anitę? Mary Barbara Hamilton Cartland (1901-2000) pseud. Barbara Cartland, brytyjska powieściopisarka, znana z pisania licznych romansów i powieści miłosnych."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ciGmDAAAQBAJ",
+      "etag": "uTAP1PCwoP0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ciGmDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Lucyfer. Gwiazda Zaranna",
+        "authors": [
+          "Dawid Grzegorz Biskupski"
+        ],
+        "publisher": "e-bookowo",
+        "publishedDate": "2016-07-08",
+        "description": "„To co się toczy obok nich, tak tuż za ramieniem to nawet nie inny świat, ale z 6 światów.” Lucyfer, pierwszy z upadłych. Diabeł karze złych ludzi, czy więc nie jest dobry? Grzesznicy trafiają do piekła na wieczne męczarnie, ale skoro Lucyfer jest zły, to nie powinien ich nagradzać? Te pytania to tylko pozorne paradoksy, błędnie zakładające jakoby człowiek coś dla diabła znaczył. Ludzie w oczach diabła po prostu nie znaczą nic. Są jak mrówki. Czemu więc tak bardzo skupiony jest na ludziach? Cóż,Bóg po stworzeniu człowieka rozkazał wszystkim zastępom anielskim pokłonić się nam, swojemu „największemu stworzeniu”. Cóż, tego Lucyfer zrobić nie mógł. Nie był w stanie uznać ludzkiej wyższości. Oznaczało to sprzeciw woli Boga i upadek. Nie, nie został wyrzucony. Sam rzucił papierami i odszedł. Z ciężkim sercem, bo kocha Boga. Jemu chce służyć. Pozostało mu więc jedno – udowodnić Bogu że się myli. Ten pierwszy, jedyny raz. I najlepszym się zdarza przecież. Lucyfer. Gwiazda Zaranna jest właśnie o tym. O Diable działającym na ziemi i robiącym wszystko żeby pokazać jak marny jest ludzki gatunek. Nie wszystkich ludzi traktuje jednak z tak wielką pogardą. Najciekawsi dla niego są Ci z nas, których talenty dane od Pana błyszczą bardziej niż u reszty. Jeden z takich ludzi, proboszcz wiejskiej parafii i egzorcysta, zaprasza go do siebie by pomógł w opętaniu które nie idzie jak powinno.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788378597094"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8378597091"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ciGmDAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ciGmDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=ciGmDAAAQBAJ&dq=intitle:lucyfer&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ciGmDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ciGmDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.99,
+          "currencyCode": "PLN"
+        },
+        "retailPrice": {
+          "amount": 4.99,
+          "currencyCode": "PLN"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ciGmDAAAQBAJ&rdid=book-ciGmDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "PLN"
+            },
+            "retailPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "PLN"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ciGmDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "„To co się toczy obok nich, tak tuż za ramieniem to nawet nie inny świat, ale z 6 światów.” Lucyfer, pierwszy z upadłych."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "k7Y7vQEACAAJ",
+      "etag": "MSBWpl6a3ZQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/k7Y7vQEACAAJ",
+      "volumeInfo": {
+        "title": "Lucyfer",
+        "authors": [
+          "Jennifer L. Armentrout"
+        ],
+        "publishedDate": "2018",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8380755421"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788380755420"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 460,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=k7Y7vQEACAAJ&dq=intitle:lucyfer&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=k7Y7vQEACAAJ&dq=intitle:lucyfer&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lucyfer.html?hl=&id=k7Y7vQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=k7Y7vQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A nurse hired to care for the comatose sister of a trio of handsome brothers is drawn into the family&#39;s secrets when one of the brothers falls in love with her."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NU3MzQEACAAJ",
+      "etag": "yIgPkzTjrRs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NU3MzQEACAAJ",
+      "volumeInfo": {
+        "title": "Hiszpański Lucyfer",
+        "authors": [
+          "Paulina Nowaczyk"
+        ],
+        "publishedDate": "2020",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8366425495"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788366425491"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=NU3MzQEACAAJ&dq=intitle:lucyfer&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=NU3MzQEACAAJ&dq=intitle:lucyfer&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hiszpa%C5%84ski_Lucyfer.html?hl=&id=NU3MzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NU3MzQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jL7nswEACAAJ",
+      "etag": "6cr1KM5NG28",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jL7nswEACAAJ",
+      "volumeInfo": {
+        "title": "Lucyfer zwycieza",
+        "authors": [
+          "Ilona Witkowska"
+        ],
+        "publishedDate": "2017",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8365739224"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788365739223"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 47,
+        "printType": "BOOK",
+        "categories": [
+          "Poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=jL7nswEACAAJ&dq=intitle:lucyfer&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=jL7nswEACAAJ&dq=intitle:lucyfer&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lucyfer_zwycieza.html?hl=&id=jL7nswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jL7nswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uCsdAAAAIAAJ",
+      "etag": "IabctwV93J8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uCsdAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Bezrobotny Lucyfer",
+        "authors": [
+          "Aleksander Wat"
+        ],
+        "publishedDate": "1960",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105035672810"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 134,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uCsdAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uCsdAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=uCsdAAAAIAAJ&dq=intitle:lucyfer&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=uCsdAAAAIAAJ&dq=intitle:lucyfer&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bezrobotny_Lucyfer.html?hl=&id=uCsdAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uCsdAAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eBAZAAAAIAAJ",
+      "etag": "h9IIUk6LuKA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eBAZAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Bezrobotny Lucyfer i inne opowieści",
+        "authors": [
+          "Aleksander Wat"
+        ],
+        "publishedDate": "1993",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3916686"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 260,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eBAZAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eBAZAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=eBAZAAAAIAAJ&dq=intitle:lucyfer&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=eBAZAAAAIAAJ&dq=intitle:lucyfer&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bezrobotny_Lucyfer_i_inne_opowie%C5%9Bci.html?hl=&id=eBAZAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eBAZAAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yg6wMQEACAAJ",
+      "etag": "3l9dJUxD1ac",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yg6wMQEACAAJ",
+      "volumeInfo": {
+        "title": "Lucyfer",
+        "authors": [
+          "Adam Luck"
+        ],
+        "publishedDate": "2012-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "837805103X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788378051039"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 132,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=yg6wMQEACAAJ&dq=intitle:lucyfer&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=yg6wMQEACAAJ&dq=intitle:lucyfer&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lucyfer.html?hl=&id=yg6wMQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yg6wMQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zBL_ygAACAAJ",
+      "etag": "UtOxISmvNg0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zBL_ygAACAAJ",
+      "volumeInfo": {
+        "title": "Lucyfer",
+        "authors": [
+          "Joost van den Vondel"
+        ],
+        "publishedDate": "2007",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8324206558"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788324206551"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 207,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=zBL_ygAACAAJ&dq=intitle:lucyfer&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=zBL_ygAACAAJ&dq=intitle:lucyfer&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lucyfer.html?hl=&id=zBL_ygAACAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zBL_ygAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ],
+  "popular": [
+    {
+      "kind": "books#volume",
+      "id": "nuOuzQEACAAJ",
+      "etag": "fb25zBA9ysQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nuOuzQEACAAJ",
+      "volumeInfo": {
+        "title": "Peaky Blinders",
+        "subtitle": "prawdziwa historia słynnych gangów Birminghamu",
+        "authors": [
+          "Carl Chinn"
+        ],
+        "publishedDate": "2020",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8381168813"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788381168816"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=nuOuzQEACAAJ&dq=intitle:peaky+blinders&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=nuOuzQEACAAJ&dq=intitle:peaky+blinders&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Peaky_Blinders.html?hl=&id=nuOuzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nuOuzQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TKnvDwAAQBAJ",
+      "etag": "z+bp/ULS5Yk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TKnvDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Peaky Blinders: The Legacy - The real story of Britain’s most notorious 1920s gangs",
+        "subtitle": "The follow-up to the Sunday Times Bestseller",
+        "authors": [
+          "Carl Chinn"
+        ],
+        "publisher": "John Blake",
+        "publishedDate": "2020-09-17",
+        "description": "From the Sunday Times bestselling author, Carl Chinn The Peaky Blinders as we know them, thanks to the hit TV series, are infused with drama and dread. Fashionably dressed, the charismatic but deeply flawed Shelby family have become cult anti-heroes. Well-known social historian, broadcaster and author, Carl Chinn, revealed the true story of the notorious gang in his bestselling Peaky Blinders: The Real Story and now in this follow-up book, he explores the legacy they created in Birmingham and beyond. What happened to them and their gangland rivals? In Peaky Blinders: The Legacy we revisit the world of Billy Kimber's Peaky Blinders, exploring their legacy throughout the 1920s and 30s, and how their burgeoning empires spread across the UK. Delve into the street wars across the country, the impact of the declaration of War on Gangs by the Home Secretary after The Racecourse War in 1921, and how black-market bookmaking gave way to new and daring opportunities for the likes of Sabini, Alfie Solomon and some new faces in the murky gangland underworld. Drawing on Carl's inimitable research, interviews and original sources, find out just what happened to this incredible cast of characters, revealing the true legacy of the Peaky Blinders.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781789462944"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1789462940"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 302,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TKnvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TKnvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=TKnvDwAAQBAJ&printsec=frontcover&dq=intitle:peaky+blinders&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=TKnvDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=TKnvDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 19.99,
+          "currencyCode": "PLN"
+        },
+        "retailPrice": {
+          "amount": 19.99,
+          "currencyCode": "PLN"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=TKnvDwAAQBAJ&rdid=book-TKnvDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 19990000,
+              "currencyCode": "PLN"
+            },
+            "retailPrice": {
+              "amountInMicros": 19990000,
+              "currencyCode": "PLN"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pl/books/download/Peaky_Blinders_The_Legacy_The_real_story-sample-epub.acsm?id=TKnvDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pl/books/download/Peaky_Blinders_The_Legacy_The_real_story-sample-pdf.acsm?id=TKnvDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TKnvDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Well-known social historian, broadcaster and author, Carl Chinn, revealed the true story of the notorious gang in his bestselling Peaky Blinders: The Real Story and now in this follow-up book, he explores the legacy they created in ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XYH-DwAAQBAJ",
+      "etag": "ZlC/2Boe0bw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XYH-DwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Peaky Blinders Compendium",
+        "subtitle": "The Official A-Z Guide to the World of Peaky Blinders",
+        "authors": [
+          "Peaky Blinders"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2021-11-11",
+        "description": "From the clothes to the cars, the customs and, of course, the caps, this is a celebration of the swagger and cool of the Shelby family enterprise and the era that made their name. The Peaky Blinders Compendium is an in-depth alphabetical guide to everything from the dress-sense to the drinking dens, the high houses, haircuts, jewellery, gypsy traditions and even the political ideals. It's also packed with practical guides throughout, whether you're aspiring to make your own backroom gin or seeking to pick up a period pocket watch. Providing deep cultural, sartorial and historical insight, this is an entertaining, informative and essential guide for the Peaky Blinder enthusiast or anyone in search of a razor sharp edge to their identity.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781529347739"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1529347734"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XYH-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XYH-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=XYH-DwAAQBAJ&printsec=frontcover&dq=intitle:peaky+blinders&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=XYH-DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XYH-DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 59.99,
+          "currencyCode": "PLN"
+        },
+        "retailPrice": {
+          "amount": 59.99,
+          "currencyCode": "PLN"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=XYH-DwAAQBAJ&rdid=book-XYH-DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 59990000,
+              "currencyCode": "PLN"
+            },
+            "retailPrice": {
+              "amountInMicros": 59990000,
+              "currencyCode": "PLN"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pl/books/download/The_Peaky_Blinders_Compendium-sample-epub.acsm?id=XYH-DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XYH-DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Providing cultural, sartorial and historical insight, this is an essential guide for the Peaky Blinder enthusiast or anyone in search of a razor-sharp edge to their identity."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KTn8DwAAQBAJ",
+      "etag": "x7PgobD6vtQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KTn8DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Peaky Blinders Cocktail Book",
+        "subtitle": "40 Cocktails Selected by the Shelby Company Ltd",
+        "authors": [
+          "Sandrine Houdre-Gregoire"
+        ],
+        "publisher": "White Lion Publishing",
+        "publishedDate": "2020-09",
+        "description": "Peaky Blinders Cocktail Book serves up 40 step-by-step cocktail recipes inspired by the critically acclaimed BBC period crime drama.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780711258716"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0711258716"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 112,
+        "printType": "BOOK",
+        "categories": [
+          "Cooking"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KTn8DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KTn8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=KTn8DwAAQBAJ&printsec=frontcover&dq=intitle:peaky+blinders&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=KTn8DwAAQBAJ&dq=intitle:peaky+blinders&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Peaky_Blinders_Cocktail_Book.html?hl=&id=KTn8DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KTn8DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Peaky Blinders Cocktail Book serves up 40 step-by-step cocktail recipes inspired by the critically acclaimed BBC period crime drama."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gwQDvgAACAAJ",
+      "etag": "nNm5dDxkbM8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gwQDvgAACAAJ",
+      "volumeInfo": {
+        "title": "The Peaky Diners",
+        "subtitle": "A Peaky Blinders Companion Cookbook - Based on Traditional British Fare",
+        "authors": [
+          "Chris Royal"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-06-15",
+        "description": "Binge watchen - Binge eaten - Binge drinken. who says yaouw can't yav it fookin' all? Plus, the whole bleeden bok is written wif Brummie slang, yeah? Step back in toyme ter the gritty streets of aud Burminum, Englan' an' tuck into sum of greatest traditional British tucker ert the'er. Frum hearty broo'us fare ter fancy fine dinnen, this book's got it all. A noight ert at the Garrison, at the Derby or the Eden Club with the Shelby clan awaits yaouw - Naaa reservations required. Loy ert the perfect table fer yaw anunst Peaky Blinders marathon or party with these delicious, easy ter folloo recipes. Snacks ter sucks, what cud be be'ah? 'Oo abart adden in sum strong custom cocktails an' a clever drinken game - You'll be all set.Cheddar Cheese Puffs * 1 cup water * 5 tbs. butter, coot into dinky bits * 1 tsp. salt 1-1/4 flour * 4 iggs * 1 cup cheddar cheese, grated Prehate oven ter 425° F. line a biscuit sheet with parchment paper. Bren water ter the bile in a saucepan over high hate an' stir in the butter an' salt. Once the butter melts, add flour an' mix with a wooden spoon. remove the saucepan frum hate an' stir in iggs 'un at a toyme. Stir in the Cheddar cheese. Form balls ert the batter abart an inch in diameter an' place them on the prepared biscuit sheet. Bek the cheese puffs fer 20 minutes an' then remove them frum the oven an' alloo them ter wosh before serven. - mek abart 15 cheese cheddar cheese puffs. Mixed Berroy Gawby * 2 tbs. sugar * 1/3 cup water * 1 cup raspberroys * 1 cup blueberroys * 1 cup strawberroys, quartered * 2 tbs. vanilla cook n' serve pudden mix * 1 tbs. sugar * 1 cup fresh milk * 1/2 cup whippen cream Hate the 2 tbs. of sugar an' the water in a large pan. add the berroys an' poach fer 10 minutes. Usen a slotted spoon, transfer the poached berroys into a large bowl an' set aside ter cool completely. Whisk pudden mix, sugar an' milk together in a medium saucepan over medium hate, stirren continuously. Once the pudden 'as thickened, remove frum hate an' set aside ter wosh completely. Whip up the whippen cream an' fold in the custard. Gently fold in abart two-thirds of the poached berroys. spoon into 4 dinky parfait glasses an' top with the remainen berroys. - serves 4The Sabini Stinger * 1 oz. campari * 2 oz. gin * 1/4 oz. golden syrup * 1 drop rose water * 2 strawberroys, sliced * 4 fresh basil leaves, chopped Shek everythen well with crushed ice an' double rawn into a chilled martini glass.Because, the bostin' woy ter a man's heart is through his stomach, even a man loike Thomas Shelby.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "153471443X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781534714434"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 132,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gwQDvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gwQDvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=gwQDvgAACAAJ&dq=intitle:peaky+blinders&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=gwQDvgAACAAJ&dq=intitle:peaky+blinders&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Peaky_Diners.html?hl=&id=gwQDvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gwQDvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Step back in toyme ter the gritty streets of aud Burminum, Englan&#39; an&#39; tuck into sum of greatest traditional British tucker ert the&#39;er. Frum hearty broo&#39;us fare ter fancy fine dinnen, this book&#39;s got it all."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "E9O7zgEACAAJ",
+      "etag": "jH8fBmYW+88",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/E9O7zgEACAAJ",
+      "volumeInfo": {
+        "title": "Coffret Peaky Blinders The Shelby Whisky Bar",
+        "subtitle": "Avec 2 verres à Whusky et 6 pierres à Whisky",
+        "authors": [
+          "Sandrine Houdré-Grégoire",
+          "Guillaume Guerbois"
+        ],
+        "publishedDate": "2021-11-02",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "2035978750"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782035978752"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.pl/books?id=E9O7zgEACAAJ&dq=intitle:peaky+blinders&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=E9O7zgEACAAJ&dq=intitle:peaky+blinders&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Coffret_Peaky_Blinders_The_Shelby_Whisky.html?hl=&id=E9O7zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=E9O7zgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SbPTzgEACAAJ",
+      "etag": "ce5NXDL+WY0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SbPTzgEACAAJ",
+      "volumeInfo": {
+        "title": "Peaky Blinders",
+        "subtitle": "spuścizna",
+        "authors": [
+          "Carl Chinn"
+        ],
+        "publishedDate": "2021",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8382023282"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788382023282"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=SbPTzgEACAAJ&dq=intitle:peaky+blinders&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=SbPTzgEACAAJ&dq=intitle:peaky+blinders&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Peaky_Blinders.html?hl=&id=SbPTzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SbPTzgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RrxqzgEACAAJ",
+      "etag": "5T3SgLkI3yY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RrxqzgEACAAJ",
+      "volumeInfo": {
+        "title": "By Order of the Peaky Blinders",
+        "subtitle": "The Official Companion to the Hit TV Series",
+        "authors": [
+          "Matt Allen"
+        ],
+        "publishedDate": "2021-10-14",
+        "description": "FEATURING BRAND NEW MATERIAL The official companion to the hit TV show, Peaky Blinders, fully illustrated in colour. Packed full of behind-the-scenes stories and interviews with the cast and creators of the show, this is the first official book. 'A must-read for fans of the ruthless Shelby clan' Daily Express'A hoard of information lurks inside the first official companion to the hit drama' Sunday Express'A heavyweight hardback in every sense of the word... essential reading for fans of the series' Birmingham Mail Walk through The Garrison Tavern's saloon bar doors and onto the streets of Birmingham, past the fire-belching factories and away to the horse fairs on the edge of town. Welcome to the world of the Peaky Blinders. Since it first hit our screens in 2013, Peaky Blinders has evolved from cult hit to a global phenomenon. By Order of the Peaky Blinders is the first official book of the TV series, featuring exclusive interviews with creator and writer Steven Knight, the cast and the production teams, and a wealth of insider knowledge of the show.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1789293898"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781789293890"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RrxqzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RrxqzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=RrxqzgEACAAJ&dq=intitle:peaky+blinders&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=RrxqzgEACAAJ&dq=intitle:peaky+blinders&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/By_Order_of_the_Peaky_Blinders.html?hl=&id=RrxqzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RrxqzgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Packed full of behind-the-scenes stories and interviews with the cast and creators of the show, this is the first official book."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VJfhzQEACAAJ",
+      "etag": "s3x5dSGr91w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VJfhzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Peaky Blinders Compendium",
+        "subtitle": "The Official A-Z Guide to the World of Peaky Blinders",
+        "authors": [
+          "BBC One"
+        ],
+        "publisher": "Mobius",
+        "publishedDate": "2022-01-18",
+        "description": "From the clothes to the cars, the customs and, of course, the caps, this is a celebration of the swagger and cool of the Shelby family enterprise and the era that made their name. The Peaky Blinders Life & Style Compendium is an in-depth alphabetical guide to everything from the dress-sense to the drinking dens, the high houses, haircuts, jewelry, gypsy traditions and even the political ideals. It's also packed with practical guides throughout, whether you're aspiring to make your own backroom gin or seeking to pick up a period pocket watch. Providing deep cultural, sartorial and historical insight, this is an entertaining, informative and essential guide for the Peaky Blinder enthusiast or anyone in search of a razor sharp edge to their identity.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1529347572"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781529347579"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VJfhzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VJfhzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=VJfhzQEACAAJ&dq=intitle:peaky+blinders&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=VJfhzQEACAAJ&dq=intitle:peaky+blinders&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Peaky_Blinders_Compendium.html?hl=&id=VJfhzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VJfhzQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From the clothes to the cars, the customs and, of course, the caps, this is a celebration of the swagger and cool of the Shelby family enterprise and the era that made their name."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3miGxgEACAAJ",
+      "etag": "CsVSG+Ad2AE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3miGxgEACAAJ",
+      "volumeInfo": {
+        "title": "Peaky Blinders",
+        "subtitle": "The Real Story: The True History of Birmingham's Most Notorious Gang",
+        "authors": [
+          "Carl Chinn"
+        ],
+        "publisher": "Dino Books",
+        "publishedDate": "2019-09",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1789461723"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781789461725"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3miGxgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3miGxgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=3miGxgEACAAJ&dq=intitle:peaky+blinders&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=3miGxgEACAAJ&dq=intitle:peaky+blinders&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Peaky_Blinders.html?hl=&id=3miGxgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3miGxgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Peaky Blinders as we know them, thanks to the hit TV series, are infused with drama and dread. This book adds a new dimension to the true history of Birmingham&#39;s underworld and fact behind its fiction"
+      }
+    }
+  ],
+  "comedy": [
+    {
+      "kind": "books#volume",
+      "id": "ZLsRBQAAQBAJ",
+      "etag": "VDeI9996QSA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZLsRBQAAQBAJ",
+      "volumeInfo": {
+        "title": "Boska Komedia",
+        "authors": [
+          "Dante Alighieri"
+        ],
+        "publisher": "Helion",
+        "description": "Kupując książkę wspierasz fundację Nowoczesna Polska, która propaguje ideę wolnej kultury. Wolne Lektury to biblioteka internetowa, rozwijana pod patronatem Ministerstwa Edukacji Narodowej. W jej zbiorach znajduje się kilka tysięcy utworów, w tym wiele lektur szkolnych zalecanych do użytku przez MEN, które trafiły już do domeny publicznej. Wszystkie dzieła są odpowiednio opracowane opatrzone przypisami oraz motywami. Charles Baudelaire Ur. 9 kwietnia 1821 r. w Paryżu Zm. 31 sierpnia 1867 r. w Paryżu Najważniejsze dzieła (zbiory wierszy) Kwiaty zła (1857), Sztuczne raje (1860), Paryski spleen (1864); (zbiory pism estetycznych) Salon 1845, Salon 1846, Malarz życia nowoczesnego (1863), Sztuka romantyczna (1868); Moje obnażone serce (1897) Francuski poeta i krytyk sztuki, jedna z najbardziej wpływowych postaci literatury XIX w. Zaliczany do grona tzw. ,,poetów przeklętych\". Ostatni romantyk (wyprowadził własne wnioski z wielowątkowego dorobku tej epoki), był jednocześnie zwolennikiem metody realistycznej w literaturze. Bliskie sobie tematy i idee odnajdowali w jego twórczości parnasiści (sztuka dla sztuki, piękno nie jest użyteczne), wyznawcy dekadentyzmu (ból istnienia), symboliści, surrealiści czy przedstawiciele modernizmu katolickiego; w jego dorobku za równie istotne jak utwory własne uważa się przekłady wierszy Edgara Allana Poego. W 1841odbył podróż morską odwiedzając wyspy Mauritius i Reunion oraz (być może) Indie, co jako doświadczenie egzotyki wpłynęło na jego wyobraźnię poetycką. Od 1842 r. przez dwadzieścia lat był związany z półFrancuską, półAfrykanką urodzoną na Haiti Jeanne Duval, aktorką i tancerką, której poświęcił wiele ze swoich najsłynniejszych wierszy (m.in. Padlina, Do Kreolki, Sed non satiata, Zapach egzotyczny, Tańcząca żmija). Jej portret w półleżącej pozie stworzył w 1862 r. Manet. Pierwsze publikacje Baudelaire'a dotyczyły malarstwa (zbiory Salon 1845 i Salon 1846) i również później zajmował się on krytyką sztuk plastycznych (w 1855r. wydał kolejny tom szkiców), a jego artykuły poświęcone Delacroix, Ingresowi czy Manetowi (Malarz życia współczesnego) należą do kanonicznych tekstów teoretycznych o sztuce. Choć nie zajmował się muzyką, był pierwszym, który docenił dzieło Wagnera. W 1848 r. Baudelaire włączył się aktywnie w rewolucję Wiosny Ludów o epizodzie tym zadecydowały nie tyle poglądy polityczne, ile poryw ducha i osobista niechęć do ojczyma, Jacques'a Aupicka, generała armii francuskiej. Nie najlepiej czuł się w rzeczywistości ustanowionego po upadku rewolty burżuazyjnokonserwatywnego ładu II Cesarstwa; niemal jako osobistą tragedię przeżył zarządzoną przez Napoleona III przebudowę Paryża, w wyniku której wyburzono wiele ze starej, średniowiecznej zabudowy miasta. Z powodu wydanego w 1857 r. tomu poezji Kwiaty zła autor został oskarżony o obrazę moralności, skazany na grzywnę i zmuszony do usunięcia niektórych utworów (pełne wydanie ukazało się dopiero w 1913 r.). Baudelaire obracał się w kręgu najwybitniejszych twórców epoki, takich jak Balzac, Nerval, Flaubert czy Gautier. Zostawił też wiele artykułów (pisanych często na zamówienie do gazet) o współczesnych mu twórcach literatury oraz żywych portretów kolegów po piórze w pamiętnikach Moje serce obnażone czy wydanych pośmiertnie Dziennikach poufnych. Przy tej okazji formułował swój własny system filozoficznoestetyczny. Pierwsze, powierzchowne wrażenie każe uznać, że Baudelaire epatuje obrazami wszystkiego, co budzi obrzydzenie oraz śmiałą erotyką. Jednak nie zajmował się on obrazoburstwem dla niego samego, ale uznając, że świat jest słownikiem hieroglifów, uważał, że należy dostrzec i zinterpretować wszelkie przejawy rzeczywistości, co pozwoli dosięgnąć piękna będącego absolutem istniejącego poza światem; jego teoria estetyczna naznaczona była mistycyzmem w duchu Swedenborga i platońskim idealizmem. Pierwszy tom jego wierszy charakteryzuje klasyczna forma, w którą wlana została nie poruszana dotąd tematyka, natomiast Paryski spleen jako zbiór poematów prozą stanowi krok w kierunku poezji nowoczesnej. Powszechnie uważa się, że Baudelaire zmarł na syfilis, podobnie jak jego wieloletnia kochanka, był też uzależniony od laudanum i przypuszczalnie od opium, nadużywał alkoholu, przez lata pędził życie kloszarda. W 1866 r. podczas pobytu w Belgii doznał wylewu krwi do mózgu i został częściowo sparaliżowany. Rok później zmarł w klinice w Paryżu i został pochowany na cmentarzu Montparnasse. Wydaniem pozostałych po nim pism zajęła się owdowiała powtórnie matka.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788328508163"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8328508168"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Poetry"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.8.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZLsRBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZLsRBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=ZLsRBQAAQBAJ&printsec=frontcover&dq=intitle:komedia&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZLsRBQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZLsRBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.5,
+          "currencyCode": "PLN"
+        },
+        "retailPrice": {
+          "amount": 4.5,
+          "currencyCode": "PLN"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZLsRBQAAQBAJ&rdid=book-ZLsRBQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4500000,
+              "currencyCode": "PLN"
+            },
+            "retailPrice": {
+              "amountInMicros": 4500000,
+              "currencyCode": "PLN"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pl/books/download/Boska_Komedia-sample-epub.acsm?id=ZLsRBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pl/books/download/Boska_Komedia-sample-pdf.acsm?id=ZLsRBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZLsRBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Kupując książkę wspierasz fundację Nowoczesna Polska, która propaguje ideę wolnej kultury."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XQROPQAACAAJ",
+      "etag": "vFZX1+kcdfw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XQROPQAACAAJ",
+      "volumeInfo": {
+        "title": "Nie-Boska komedia",
+        "authors": [
+          "Zygmunt Krasiński"
+        ],
+        "publishedDate": "2006",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8373277404"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788373277403"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 110,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=XQROPQAACAAJ&dq=intitle:komedia&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=XQROPQAACAAJ&dq=intitle:komedia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nie_Boska_komedia.html?hl=&id=XQROPQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XQROPQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YkMmDwAAQBAJ",
+      "etag": "ONpEG2yPp8A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YkMmDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Nie-Boska komedia. Wydanie krytyczne pierwodruku z 1835 roku",
+        "subtitle": "",
+        "authors": [
+          "ZYGMUNT KRASIŃSKI"
+        ],
+        "publisher": "Wydawnictwo Naukowe Uniwersytetu Mikołaja Kopernika",
+        "publishedDate": "2015",
+        "description": "MAGDALENA BIZIOR-DOMBROWSKA, OPRAC. Zygmunt Krasiński stworzył tak naprawdę dwie Nie-Boskie komedie: pierwszą, romantyczną, młodzieńczą, wydaną w 1835 roku po raz pierwszy i dwa lata później po raz drugi oraz późniejszą, poprawioną (czy też „zepsutą”?), wydaną rok przed śmiercią, którą znamy także współcześnie. Kolejni edytorzy dramatu za podstawę tekstową przyjmowali bowiem zawsze trzecie wydanie. Od ponad stu pięćdziesięciu lat czytamy zatem Nie-Boską komedię jako arcydzieło genialnego, dwudziestojednoletniego poety, bez świadomości, że jest to przecież wersja znacząco zmieniona przez dojrzałego twórcę. Odtworzenie wersji pierwotnej utworu, na podstawie pierwodruku, z zachowaniem współczesnych zasad edytorstwa naukowego, wydaje się zatem ważnym przedsięwzięciem, które umożliwi współczesnym odbiorcom poznanie jednego z najważniejszych dzieł polskiego romantyzmu w takiej formie, w jakiej znali go czytelnicy romantyczni.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788323134985"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8323134987"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 238,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YkMmDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YkMmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=YkMmDwAAQBAJ&printsec=frontcover&dq=intitle:komedia&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YkMmDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YkMmDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "PLN"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "PLN"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=YkMmDwAAQBAJ&rdid=book-YkMmDwAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YkMmDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Zygmunt Krasiński stworzył tak naprawdę dwie Nie-Boskie komedie: pierwszą, romantyczną, młodzieńczą, wydaną w 1835 roku po raz pierwszy i dwa lata później po raz drugi oraz późniejszą, poprawioną (czy też „zepsutą”?), ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sMtcjwEACAAJ",
+      "etag": "QrQ/AsV4loQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sMtcjwEACAAJ",
+      "volumeInfo": {
+        "title": "Komedia dell'arte",
+        "authors": [
+          "Monika Surma-Gawlowska"
+        ],
+        "publishedDate": "2016-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8324227288"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788324227280"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 408,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=sMtcjwEACAAJ&dq=intitle:komedia&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=sMtcjwEACAAJ&dq=intitle:komedia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Komedia_dell_arte.html?hl=&id=sMtcjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sMtcjwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iIASBQAAQBAJ",
+      "etag": "FfGud3LTXCk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iIASBQAAQBAJ",
+      "volumeInfo": {
+        "title": "NieBoska komedia",
+        "authors": [
+          "Zygmunt Krasiński"
+        ],
+        "publisher": "Helion",
+        "publishedDate": "1974",
+        "description": "Kupując książkę wspierasz fundację Nowoczesna Polska, która propaguje ideę wolnej kultury. Wolne Lektury to biblioteka internetowa, rozwijana pod patronatem Ministerstwa Edukacji Narodowej. W jej zbiorach znajduje się kilka tysięcy utworów, w tym wiele lektur szkolnych zalecanych do użytku przez MEN, które trafiły już do domeny publicznej. Wszystkie dzieła są odpowiednio opracowane opatrzone przypisami oraz motywami. Charles Baudelaire Ur. 9 kwietnia 1821 r. w Paryżu Zm. 31 sierpnia 1867 r. w Paryżu Najważniejsze dzieła (zbiory wierszy) Kwiaty zła (1857), Sztuczne raje (1860), Paryski spleen (1864); (zbiory pism estetycznych) Salon 1845, Salon 1846, Malarz życia nowoczesnego (1863), Sztuka romantyczna (1868); Moje obnażone serce (1897) Francuski poeta i krytyk sztuki, jedna z najbardziej wpływowych postaci literatury XIX w. Zaliczany do grona tzw. ,,poetów przeklętych\". Ostatni romantyk (wyprowadził własne wnioski z wielowątkowego dorobku tej epoki), był jednocześnie zwolennikiem metody realistycznej w literaturze. Bliskie sobie tematy i idee odnajdowali w jego twórczości parnasiści (sztuka dla sztuki, piękno nie jest użyteczne), wyznawcy dekadentyzmu (ból istnienia), symboliści, surrealiści czy przedstawiciele modernizmu katolickiego; w jego dorobku za równie istotne jak utwory własne uważa się przekłady wierszy Edgara Allana Poego. W 1841odbył podróż morską odwiedzając wyspy Mauritius i Reunion oraz (być może) Indie, co jako doświadczenie egzotyki wpłynęło na jego wyobraźnię poetycką. Od 1842 r. przez dwadzieścia lat był związany z półFrancuską, półAfrykanką urodzoną na Haiti Jeanne Duval, aktorką i tancerką, której poświęcił wiele ze swoich najsłynniejszych wierszy (m.in. Padlina, Do Kreolki, Sed non satiata, Zapach egzotyczny, Tańcząca żmija). Jej portret w półleżącej pozie stworzył w 1862 r. Manet. Pierwsze publikacje Baudelaire'a dotyczyły malarstwa (zbiory Salon 1845 i Salon 1846) i również później zajmował się on krytyką sztuk plastycznych (w 1855r. wydał kolejny tom szkiców), a jego artykuły poświęcone Delacroix, Ingresowi czy Manetowi (Malarz życia współczesnego) należą do kanonicznych tekstów teoretycznych o sztuce. Choć nie zajmował się muzyką, był pierwszym, który docenił dzieło Wagnera. W 1848 r. Baudelaire włączył się aktywnie w rewolucję Wiosny Ludów o epizodzie tym zadecydowały nie tyle poglądy polityczne, ile poryw ducha i osobista niechęć do ojczyma, Jacques'a Aupicka, generała armii francuskiej. Nie najlepiej czuł się w rzeczywistości ustanowionego po upadku rewolty burżuazyjnokonserwatywnego ładu II Cesarstwa; niemal jako osobistą tragedię przeżył zarządzoną przez Napoleona III przebudowę Paryża, w wyniku której wyburzono wiele ze starej, średniowiecznej zabudowy miasta. Z powodu wydanego w 1857 r. tomu poezji Kwiaty zła autor został oskarżony o obrazę moralności, skazany na grzywnę i zmuszony do usunięcia niektórych utworów (pełne wydanie ukazało się dopiero w 1913 r.). Baudelaire obracał się w kręgu najwybitniejszych twórców epoki, takich jak Balzac, Nerval, Flaubert czy Gautier. Zostawił też wiele artykułów (pisanych często na zamówienie do gazet) o współczesnych mu twórcach literatury oraz żywych portretów kolegów po piórze w pamiętnikach Moje serce obnażone czy wydanych pośmiertnie Dziennikach poufnych. Przy tej okazji formułował swój własny system filozoficznoestetyczny. Pierwsze, powierzchowne wrażenie każe uznać, że Baudelaire epatuje obrazami wszystkiego, co budzi obrzydzenie oraz śmiałą erotyką. Jednak nie zajmował się on obrazoburstwem dla niego samego, ale uznając, że świat jest słownikiem hieroglifów, uważał, że należy dostrzec i zinterpretować wszelkie przejawy rzeczywistości, co pozwoli dosięgnąć piękna będącego absolutem istniejącego poza światem; jego teoria estetyczna naznaczona była mistycyzmem w duchu Swedenborga i platońskim idealizmem. Pierwszy tom jego wierszy charakteryzuje klasyczna forma, w którą wlana została nie poruszana dotąd tematyka, natomiast Paryski spleen jako zbiór poematów prozą stanowi krok w kierunku poezji nowoczesnej. Powszechnie uważa się, że Baudelaire zmarł na syfilis, podobnie jak jego wieloletnia kochanka, był też uzależniony od laudanum i przypuszczalnie od opium, nadużywał alkoholu, przez lata pędził życie kloszarda. W 1866 r. podczas pobytu w Belgii doznał wylewu krwi do mózgu i został częściowo sparaliżowany. Rok później zmarł w klinice w Paryżu i został pochowany na cmentarzu Montparnasse. Wydaniem pozostałych po nim pism zajęła się owdowiała powtórnie matka.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788328505445"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8328505444"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 210,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iIASBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iIASBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=iIASBQAAQBAJ&printsec=frontcover&dq=intitle:komedia&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=iIASBQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=iIASBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.5,
+          "currencyCode": "PLN"
+        },
+        "retailPrice": {
+          "amount": 4.5,
+          "currencyCode": "PLN"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=iIASBQAAQBAJ&rdid=book-iIASBQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4500000,
+              "currencyCode": "PLN"
+            },
+            "retailPrice": {
+              "amountInMicros": 4500000,
+              "currencyCode": "PLN"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pl/books/download/NieBoska_komedia-sample-epub.acsm?id=iIASBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pl/books/download/NieBoska_komedia-sample-pdf.acsm?id=iIASBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iIASBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Kupując książkę wspierasz fundację Nowoczesna Polska, która propaguje ideę wolnej kultury."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-Li_vwEACAAJ",
+      "etag": "jCPgi4muR7c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-Li_vwEACAAJ",
+      "volumeInfo": {
+        "title": "Komedia omyłek",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publishedDate": "2017",
+        "description": "Farce about two pairs of twins involved in an elaborate series of mistaken identities.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8365776278"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788365776273"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Brothers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=-Li_vwEACAAJ&dq=intitle:komedia&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=-Li_vwEACAAJ&dq=intitle:komedia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Komedia_omy%C5%82ek.html?hl=&id=-Li_vwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-Li_vwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Farce about two pairs of twins involved in an elaborate series of mistaken identities."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "35nsAAAAMAAJ",
+      "etag": "AQcEepSdgDo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/35nsAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Miłość na Krymie (1993)",
+        "subtitle": "komedia tragiczna w trzech aktach",
+        "authors": [
+          "Sławomir Mrożek"
+        ],
+        "publishedDate": "2000",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000078198151"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=35nsAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=35nsAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=35nsAAAAMAAJ&dq=intitle:komedia&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=35nsAAAAMAAJ&dq=intitle:komedia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mi%C5%82o%C5%9B%C4%87_na_Krymie_1993.html?hl=&id=35nsAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=35nsAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eHxztwAACAAJ",
+      "etag": "KUL4hwDwYr8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eHxztwAACAAJ",
+      "volumeInfo": {
+        "title": "Nie-Boska komedia",
+        "subtitle": "Irydion",
+        "authors": [
+          "Zygmunt Krasiński"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8374358726"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788374358729"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 250,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=eHxztwAACAAJ&dq=intitle:komedia&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=eHxztwAACAAJ&dq=intitle:komedia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nie_Boska_komedia.html?hl=&id=eHxztwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eHxztwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MeAvAAAAIAAJ",
+      "etag": "ACnoLvR3Mgg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MeAvAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Komedia obyczajowa warszawska: Wstęp. Małżeństwo niezgodne. Powrót niespodziany. Kawa. Oraczewski, F. Zabawy, czyli Życie bez celu",
+        "authors": [
+          "Zofia Wołoszyńska"
+        ],
+        "publishedDate": "1960",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105128018939"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Polish drama"
+        ],
+        "averageRating": 2,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MeAvAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MeAvAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=MeAvAAAAIAAJ&dq=intitle:komedia&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=MeAvAAAAIAAJ&dq=intitle:komedia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Komedia_obyczajowa_warszawska_Wst%C4%99p_Ma.html?hl=&id=MeAvAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MeAvAAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EM9GAAAAIAAJ",
+      "etag": "HusdOJVA8y0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EM9GAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Komedia polska XX-lecia międzywojennego",
+        "subtitle": "tradycjonaliści i nowatorzy",
+        "authors": [
+          "Anna Krajewska"
+        ],
+        "publishedDate": "1989",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105041276440"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 179,
+        "printType": "BOOK",
+        "categories": [
+          "Polish drama (Comedy)."
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EM9GAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EM9GAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=EM9GAAAAIAAJ&dq=intitle:komedia&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=EM9GAAAAIAAJ&dq=intitle:komedia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Komedia_polska_XX_lecia_mi%C4%99dzywojennego.html?hl=&id=EM9GAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EM9GAAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

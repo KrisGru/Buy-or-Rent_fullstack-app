@@ -1,0 +1,32 @@
+
+.button {
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.button:active {
+  transform:scale(0.95);
+}
+//button- dark style
+.darkBtn {
+  background-color: #262626;
+  color: #ffff;
+  border: 1px solid #ffff;
+}
+
+.darkBtn:hover {
+  background-color: #ffff;
+  border: 1px solid #262626;
+  color: #262626;
+}
+//button - light style
+.lightBtn {
+  background-color: #ffff;
+  color: #262626;
+  border: 1px solid #262626;
+}
+.lightBtn:hover {
+  background-color: #262626;
+  border: 1px solid #ffff;
+  color: #ffff;
+}

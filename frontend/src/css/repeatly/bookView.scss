@@ -1,0 +1,52 @@
+.bookView {
+  background-color: white;
+  margin: 3px 10px;
+  font-size: 0.9rem;
+  div {
+    div {
+      width: 128px;
+      height: 172px;
+      padding-top: 80px;
+      font-weight: bold;
+      font-size: 1.1rem;
+      box-shadow: 0 0 4px #000;
+    }
+    img {
+    box-shadow: 0 0 4px #000;
+    }
+  }
+  p {
+    font-size: 0.8rem;
+    margin: 0;
+  }
+}
+
+.bookView:hover {
+  transform:scale(1.03);
+}
+
+.icons {
+  box-shadow: 0 0 4px #000;
+  width: 128px;
+  margin-bottom: 1px;
+  padding: 5px 0;
+  display: flex;
+  justify-content: space-around;
+  &:hover{
+    transform:scale(1.03);
+  }
+  .forSale {
+    color: green;
+    cursor: pointer;
+  }
+  .notForSale {
+    color: red;
+    cursor: pointer;
+  }
+  .forRent {
+    color: #ac7339;
+    cursor: pointer;
+    z-index: 134455;
+  }
+}
+

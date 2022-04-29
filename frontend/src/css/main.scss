@@ -1,0 +1,26 @@
+@import "~bootstrap/scss/bootstrap";
+@import './normalize/_normalize',
+  './normalize/style',
+  'homepage',
+  './repeatly/buttons',
+  './account/sign-up',
+  './account/account',
+  './repeatly/modal',
+  'basket', 'results',
+  './repeatly/bookView',
+  './repeatly/booksView',
+  'contact',
+  './account/rented';
+
+/*
+main colors {
+  background navTop, background body, background logo: #d9d9d9;
+  background browser, background navButton: #262626;
+}
+*/
+:root {
+  --primary-color: #262626;
+}
+
+
+// @media only screen and (max-width: 900px)
