@@ -1,6 +1,7 @@
 import BooksView from "../components/visualSection/BooksView";
 import Modal from "../components/visualSection/Modal";
-
+import { AppContext } from "../utils/contextState";
+import { useContext } from "react";
 import { MdShoppingCart } from "react-icons/md";
 import { MdRemoveShoppingCart } from "react-icons/md";
 import { BsHourglassSplit } from "react-icons/bs";
@@ -10,7 +11,6 @@ import {
 } from "react-notifications";
 
 export default function Results({
-  input,
   setResults,
   results,
   setBasketBuy,
@@ -18,6 +18,7 @@ export default function Results({
   modalBook,
   setModalBook,
 }) {
+  const { input } = useContext(AppContext);
   const books = results;
 
   const createNotification = (type, text) => {

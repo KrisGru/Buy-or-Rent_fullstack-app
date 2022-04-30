@@ -1,3 +1,5 @@
+import { AppContext } from "../utils/contextState";
+import { useContext } from "react";
 import { Outlet, NavLink, Link } from "react-router-dom";
 import { BiBody } from "react-icons/bi";
 import { MdShoppingCart } from "react-icons/md";
@@ -7,12 +9,11 @@ import { useNavigate } from "react-router-dom";
 const TopNav = ({
   dataUser,
   setDataUser,
-  input,
-  setInput,
   handleFetch,
   setBasketBuy,
   setBasketRent,
 }) => {
+  const { setInput, input } = useContext(AppContext);
   let logged = dataUser.logged;
   let data = dataUser.data;
   const navigate = useNavigate();

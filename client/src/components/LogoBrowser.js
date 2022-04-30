@@ -1,10 +1,12 @@
 import { Link } from "react-router-dom";
+import { AppContext } from "../utils/contextState";
+import { useContext } from "react";
 
-export default function LogoBrowser({ handleFetch, input, setInput }) {
+export default function LogoBrowser({ handleFetch }) {
   return (
     <div>
       <Logo />
-      <Browser handleFetch={handleFetch} input={input} setInput={setInput} />
+      <Browser handleFetch={handleFetch} />
     </div>
   );
 }
@@ -27,7 +29,9 @@ function Logo() {
 }
 
 //Browser
-function Browser({ input, setInput, handleFetch }) {
+function Browser({ handleFetch }) {
+  const { setInput, input } = useContext(AppContext);
+
   return (
     <section className="bgBrowser">
       <div className="browser">

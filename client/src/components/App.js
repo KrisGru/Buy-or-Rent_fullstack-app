@@ -22,11 +22,14 @@ import YourAccount from "../pages/accountNested/YourAccount";
 function App() {
   const [basketBuy, setBasketBuy] = useState([]);
   const [basketRent, setBasketRent] = useState([]);
-  const [input, setInput] = useState("");
+  const { input } = useContext(AppContext);
   const [results, setResults] = useState(false);
   const [modalBook, setModalBook] = useState(false);
   const [currentURL, setCurrentURL] = useState("");
-  const { dataUser, setDataUser } = useContext(AppContext);
+  const [dataUser, setDataUser] = useState({
+    logged: false,
+    data: null,
+  });
 
   const myKeyGoogleApi = "AIzaSyDUkLYsyGzoEavreh4lSYASKp8M6lj4B3E";
 
@@ -86,16 +89,10 @@ function App() {
         setDataUser={setDataUser}
         dataUser={dataUser}
         handleFetch={handleFetch}
-        setInput={setInput}
-        input={input}
         setBasketRent={setBasketRent}
         setBasketBuy={setBasketBuy}
       />
-      <LogoBrowser
-        input={input}
-        setInput={setInput}
-        handleFetch={handleFetch}
-      />
+      <LogoBrowser handleFetch={handleFetch} />
       <div id="routesInApp">
         <Routes>
           <Route path="/" element={<Home dataUser={dataUser} />} />
