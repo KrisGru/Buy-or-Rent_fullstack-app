@@ -1,33 +1,51 @@
-import { Outlet, NavLink } from 'react-router-dom';
-import { ImBooks } from 'react-icons/im';
+import { Outlet, NavLink } from "react-router-dom";
+import { ImBooks } from "react-icons/im";
+import { useContext } from "react";
+import { AppContext } from "../utils/boxOfStates";
 
-const Account = ({ dataUser, setDataUser }) => {
+const Account = () => {
+  const { dataUser } = useContext(AppContext);
   const { login, typeUser } = dataUser.data;
-
- 
 
   return (
     <div className="containerAccountNav">
-      <h1>Hi, {login} <ImBooks/></h1>
+      <h1>
+        Hi, {login} <ImBooks />
+      </h1>
       <nav className="accountNavs">
-        <NavLink className="navAccountLink" end to="/account" >Your account</NavLink>
-        <NavLink className="navAccountLink" to="rented" >Rented</NavLink>
-        <NavLink className="navAccountLink" to="bought" >Bought</NavLink>
-        <NavLink className="navAccountLink" to="returned" >Returned</NavLink>
+        <NavLink className="navAccountLink" end to="/account">
+          Your account
+        </NavLink>
+        <NavLink className="navAccountLink" to="rented">
+          Rented
+        </NavLink>
+        <NavLink className="navAccountLink" to="bought">
+          Bought
+        </NavLink>
+        <NavLink className="navAccountLink" to="returned">
+          Returned
+        </NavLink>
         <div className="space"></div>
-        {typeUser==="admin" ?
-        <>
-          <NavLink className="navAccountLink" to="admin" >Admin</NavLink>
-          <NavLink className="navAccountLink" to="admin" >Admin</NavLink>
-          <NavLink className="navAccountLink" to="admin" >Admin</NavLink>
-        </>
-        : null
-        }
-        <NavLink  className="navAccountLink" to="admin" >{typeUser}</NavLink>
+        {typeUser === "admin" ? (
+          <>
+            <NavLink className="navAccountLink" to="admin">
+              Admin
+            </NavLink>
+            <NavLink className="navAccountLink" to="admin">
+              Admin
+            </NavLink>
+            <NavLink className="navAccountLink" to="admin">
+              Admin
+            </NavLink>
+          </>
+        ) : null}
+        <NavLink className="navAccountLink" to="admin">
+          {typeUser}
+        </NavLink>
       </nav>
       <Outlet />
     </div>
-  )
-}
+  );
+};
 
 export default Account;

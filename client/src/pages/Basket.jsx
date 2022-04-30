@@ -1,13 +1,12 @@
 import { MdShoppingCart } from "react-icons/md";
 import { BsHourglassSplit } from "react-icons/bs";
 import BasketItem from "../components/shop/BasketItem";
-export default function Basket({
-  dataUser,
-  basketBuy,
-  setBasketBuy,
-  basketRent,
-  setBasketRent,
-}) {
+import { useContext } from "react";
+import { AppContext } from "../utils/boxOfStates";
+
+export default function Basket() {
+  const { basketBuy, setBasketBuy, setBasketRent, basketRent, dataUser } =
+    useContext(AppContext);
   let basketBuyBooks = basketBuy;
   let basketRentBooks = basketRent;
   let time = new Date();

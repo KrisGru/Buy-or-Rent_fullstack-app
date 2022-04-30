@@ -1,4 +1,4 @@
-import Modal from "../components/visualSection/Modal";
+// import Modal from "../components/visualSection/Modal";
 import {
   NotificationContainer,
   NotificationManager,
@@ -9,12 +9,7 @@ import { BsHourglassSplit } from "react-icons/bs";
 import BooksView from "../components/visualSection/BooksView";
 const jsonData = require("../components/shop/randomBooksToShop.json");
 
-export default function Shop({
-  setBasketBuy,
-  setBasketRent,
-  setModalBook,
-  modalBook,
-}) {
+export default function Shop() {
   const data = jsonData;
 
   const createNotification = (type, text) => {
@@ -45,36 +40,22 @@ export default function Shop({
       </div>
       <BooksView
         createNotification={createNotification}
-        setModalBook={setModalBook}
-        setBasketBuy={setBasketBuy}
-        setBasketRent={setBasketRent}
         data={data.popular}
         title="The most popular books"
       />
       <BooksView
         createNotification={createNotification}
-        setModalBook={setModalBook}
-        setBasketBuy={setBasketBuy}
-        setBasketRent={setBasketRent}
         data={data.recommended}
         title="Recommended books"
       />
       <BooksView
         createNotification={createNotification}
-        setModalBook={setModalBook}
-        setBasketBuy={setBasketBuy}
-        setBasketRent={setBasketRent}
         data={data.comedy}
         title="Books from comedy category"
       />
-      {modalBook ? (
-        <Modal
-          createNotification={createNotification}
-          modalBook={modalBook}
-          setBasketBuy={setBasketBuy}
-          setBasketRent={setBasketRent}
-        />
-      ) : null}
+      {/* {modalBook ? (
+        <Modal createNotification={createNotification} modalBook={modalBook} />
+      ) : null} */}
       <NotificationContainer />
     </>
   );

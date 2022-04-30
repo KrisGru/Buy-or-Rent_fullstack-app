@@ -1,7 +1,13 @@
+import { useContext } from "react";
+import { AppContext } from "../utils/boxOfStates";
+
 export default function Home() {
+  const { input } = useContext(AppContext);
+
   return (
     <>
       <h1 className="headerHome">Current News</h1>
+      <h2>{input}</h2>
       <Article
         title="Article 1"
         photo="assets/articleImg.jpg"

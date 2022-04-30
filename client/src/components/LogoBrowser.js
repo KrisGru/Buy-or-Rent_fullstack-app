@@ -1,12 +1,12 @@
 import { Link } from "react-router-dom";
-import { AppContext } from "../utils/contextState";
+import { AppContext } from "../utils/boxOfStates";
 import { useContext } from "react";
 
-export default function LogoBrowser({ handleFetch }) {
+export default function LogoBrowser({ bookFetch }) {
   return (
     <div>
       <Logo />
-      <Browser handleFetch={handleFetch} />
+      <Browser bookFetch={bookFetch} />
     </div>
   );
 }
@@ -29,7 +29,7 @@ function Logo() {
 }
 
 //Browser
-function Browser({ handleFetch }) {
+function Browser({ bookFetch }) {
   const { setInput, input } = useContext(AppContext);
 
   return (
@@ -42,13 +42,13 @@ function Browser({ handleFetch }) {
           onChange={(e) => setInput(e.target.value)}
           onKeyPress={(event) => {
             if (event.key === "Enter") {
-              handleFetch(input);
+              bookFetch(input);
             }
           }}
           placeholder="search title"
         />
         <Link
-          onClick={() => handleFetch(input)}
+          onClick={() => bookFetch(input)}
           type="button"
           to="./results"
           className="button lightBtn"

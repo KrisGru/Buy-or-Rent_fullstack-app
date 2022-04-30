@@ -1,4 +1,4 @@
-import { AppContext } from "../utils/contextState";
+import { AppContext } from "../utils/boxOfStates";
 import { useContext } from "react";
 import { Outlet, NavLink, Link } from "react-router-dom";
 import { BiBody } from "react-icons/bi";
@@ -6,14 +6,15 @@ import { MdShoppingCart } from "react-icons/md";
 import { FaSearch } from "react-icons/fa";
 import { useNavigate } from "react-router-dom";
 
-const TopNav = ({
-  dataUser,
-  setDataUser,
-  handleFetch,
-  setBasketBuy,
-  setBasketRent,
-}) => {
-  const { setInput, input } = useContext(AppContext);
+const TopNav = ({ bookFetch }) => {
+  const {
+    setInput,
+    input,
+    setBasketBuy,
+    setBasketRent,
+    dataUser,
+    setDataUser,
+  } = useContext(AppContext);
   let logged = dataUser.logged;
   let data = dataUser.data;
   const navigate = useNavigate();
@@ -45,13 +46,13 @@ const TopNav = ({
               onChange={(e) => setInput(e.target.value)}
               onKeyPress={(event) => {
                 if (event.key === "Enter") {
-                  handleFetch(input);
+                  bookFetch(input);
                 }
               }}
               placeholder="search title"
             />
           </Link>
-          <FaSearch onClick={() => handleFetch(input)} />
+          <FaSearch onClick={() => bookFetch(input)} />
         </div>
         <NavLink className="navLink" to="./basket">
           <MdShoppingCart size="28" />

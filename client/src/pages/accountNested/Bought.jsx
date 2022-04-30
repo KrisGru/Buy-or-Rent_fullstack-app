@@ -1,8 +1,10 @@
-import { useContext } from "react";
-import { AppContext } from "../../utils/contextState";
 import OneOrder from "../../components/OneOrder";
+import { useContext } from "react";
+import { AppContext } from "../../utils/boxOfStates";
 
-export default function Bought({ dataUser }) {
+export default function Bought() {
+  const { dataUser } = useContext(AppContext);
+
   const { boughtOrders } = dataUser.data;
   console.log(boughtOrders);
   return (

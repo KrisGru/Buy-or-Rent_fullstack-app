@@ -1,6 +1,6 @@
 import BooksView from "../components/visualSection/BooksView";
-import Modal from "../components/visualSection/Modal";
-import { AppContext } from "../utils/contextState";
+// import Modal from "../components/visualSection/Modal";
+import { AppContext } from "../utils/boxOfStates";
 import { useContext } from "react";
 import { MdShoppingCart } from "react-icons/md";
 import { MdRemoveShoppingCart } from "react-icons/md";
@@ -10,15 +10,9 @@ import {
   NotificationManager,
 } from "react-notifications";
 
-export default function Results({
-  setResults,
-  results,
-  setBasketBuy,
-  setBasketRent,
-  modalBook,
-  setModalBook,
-}) {
-  const { input } = useContext(AppContext);
+export default function Results() {
+  const { input, results } = useContext(AppContext);
+
   const books = results;
 
   const createNotification = (type, text) => {
@@ -51,18 +45,13 @@ export default function Results({
       {results ? (
         <BooksView
           createNotification={createNotification}
-          setModalBook={setModalBook}
-          setBasketBuy={setBasketBuy}
-          setBasketRent={setBasketRent}
           data={books}
           title={`keyword: ${input}`}
         />
       ) : (
         <h3 className="resultsMessage">Search book</h3>
       )}
-      {modalBook ? (
-        <Modal modalBook={modalBook} setBasketBuy={setBasketBuy} />
-      ) : null}
+      {/* {modalBook ? <Modal /> : null} */}
       <NotificationContainer />
     </>
   );
