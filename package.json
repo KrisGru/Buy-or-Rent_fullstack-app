@@ -14,7 +14,7 @@
     "all": "concurrently --kill-others-on-fail \"npm run dev\" \"npm run react\"",
     "react": "cd client && npm start",
     "eject": "react-scripts eject",
-    "build-client": "cd client && npm install && npm run build-css && npm run build",
+    "build-client": "cd client && npm install && npm run build",
     "build-server": "cd server && npm install && npm run build",
     "heroku-postbuild": "npm run build-client && npm run build-server"
   },
